@@ -4,4 +4,4 @@
 44
 
 01e6089
-Git tracks changes.
+Git tracks changes of files.
